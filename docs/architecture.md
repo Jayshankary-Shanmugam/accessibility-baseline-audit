@@ -26,3 +26,20 @@ accessibility-baseline-audit/
 │
 ├── README.md
 └── .gitignore
+
+Components
+
+Client
+Reserved for the frontend application.
+
+Server
+Reserved for backend services and APIs.
+
+Documentation
+Contains the accessibility audit, architecture documentation and supporting evidence screenshots.
+
+Tests
+Reserved for automated and manual testing resources.
+
+Maintainability
+Separating application layers and documentation makes the repository easier to extend into a complete full-stack project.
